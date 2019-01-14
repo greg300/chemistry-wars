@@ -1,4 +1,4 @@
-# java-chemists-vs-republicans
+# chemists-vs-republicans
 A Java program written in AP Computer Science class as a high school junior. GUI-based role-playing game built using Swing.
 
 A role-playing game that pits the greatest chemistry teacher of all time against a very rich man - in a lightsaber duel!
